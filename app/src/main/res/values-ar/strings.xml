@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ماسح المستندات</string>
+    <string name="images">الصور</string>
+    <string name="documents">الوثائق</string>
+    <string name="scan">مسح ضوئي</string>
+    <string name="recent_documents">الوثائق الحديثة</string>
+    <string name="recent_images">الصور الحديثة</string>
+    <string name="no_pdf_app">لم يتم العثور على تطبيق لفتح ملف PDF</string>
+    <string name="no_gallery_app">لم يتم العثور على تطبيق لفتح الصورة</string>
+    <string name="edit_dialog_cancel_btn">إلغاء</string>
+    <string name="edit_dialog_save_btn">حفظ</string>
+    <string name="edit_dialog_title">أدخل الاسم الجديد</string>
+    <string name="edit_dialog_field_label">الاسم</string>
+    <string name="edit_file_dropdown">تعديل</string>
+    <string name="delete_file_dropdown">مسح</string>
+    <string name="search_field_placeHolder">ملفات PDF أو الصور</string>
+    <string name="no_available_items">عذرا، لم نعثر على أي نتائج \n اضغط مسح ضوئي لإضافة المزيد.</string>
+
+    // search filter chips
+    <string name="all_filter_chip">الكل</string>
+    <string name="images_filter_chip">الصور</string>
+    <string name="pdf_filter_chip">ملفات PDF</string>
+
+    // CRUD actions message
+    <string name="image_deleted_successfully">تم حذف الصورة بنجاح</string>
+    <string name="pdf_deleted_successfully">تم حذف ملف PDF بنجاح</string>
+    <string name="name_edited_successfully">تم تعديل الاسم بنجاح</string>
+    <string name="something_wrong">شيء خاطئ</string>
+    <string name="image_not_exist">الصورة غير موجودة</string>
+    <string name="pdf_not_exist">PDF غير موجود</string>
+    <string name="file_not_exist">الملف غير موجود</string>
+    <string name="file_already_exist">الملف موجود بالفعل</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Documents Scanner</string>
+    <string name="images">Images</string>
+    <string name="documents">Documents</string>
+    <string name="scan">Scan</string>
+    <string name="recent_documents">Recent Documents</string>
+    <string name="recent_images">Recent Images</string>
+    <string name="no_pdf_app">No app found to open the PDF</string>
+    <string name="no_gallery_app">No app found to open the Image</string>
+    <string name="edit_dialog_cancel_btn">Cancel</string>
+    <string name="edit_dialog_save_btn">Save</string>
+    <string name="edit_dialog_title">Enter the new name</string>
+    <string name="edit_dialog_field_label">Name</string>
+    <string name="edit_file_dropdown">Edit</string>
+    <string name="delete_file_dropdown">Delete</string>
+    <string name="search_field_placeHolder">PDF\'s or images</string>
+    <string name="no_available_items">Sorry, we haven\'t found any results \n click scan to add more.</string>
+
+    // search filter chips
+    <string name="all_filter_chip">All</string>
+    <string name="images_filter_chip">Images</string>
+    <string name="pdf_filter_chip">PDF\'s</string>
+
+    // CRUD actions message
+    <string name="image_deleted_successfully">Image deleted successfully</string>
+    <string name="pdf_deleted_successfully">PDF deleted successfully</string>
+    <string name="name_edited_successfully">Name edited successfully</string>
+    <string name="something_wrong">Something wrong</string>
+    <string name="image_not_exist">Image not exist</string>
+    <string name="pdf_not_exist">PDF not exist</string>
+    <string name="file_not_exist">File not exist</string>
+    <string name="file_already_exist">File already exist</string>
+</resources>

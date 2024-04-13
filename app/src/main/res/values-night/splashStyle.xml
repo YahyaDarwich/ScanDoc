@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#191C1B</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_round</item>
+        <item name="postSplashScreenTheme">@style/Theme.DocumentScanner</item>
+    </style>
+</resources>
