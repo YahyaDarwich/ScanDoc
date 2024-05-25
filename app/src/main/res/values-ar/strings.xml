@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ماسح المستندات</string>
+    <string name="app_name">ScanDoc</string>
     <string name="images">الصور</string>
     <string name="documents">الوثائق</string>
     <string name="scan">مسح ضوئي</string>

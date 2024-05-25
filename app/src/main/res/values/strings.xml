@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Documents Scanner</string>
+    <string name="app_name">ScanDoc</string>
     <string name="images">Images</string>
     <string name="documents">Documents</string>
     <string name="scan">Scan</string>

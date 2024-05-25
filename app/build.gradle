@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.document.scanner'
+    namespace 'com.scandoc.app'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.document.scanner"
+        applicationId "com.scandoc.yahya.apps"
         minSdk 21
         targetSdk 34
         versionCode 1
